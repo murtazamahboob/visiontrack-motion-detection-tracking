@@ -1,0 +1,1 @@
+{"alerts":{"crowd_limit":5,"fast_speed":25.0,"loiter_frames":20},"detector":{"background_alpha":0.05,"min_area":25,"threshold":30.0},"tracker":{"max_distance":40.0,"max_missed":3},"zones":[{"h":80,"name":"door","w":40,"x":40,"y":0}]}
